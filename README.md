@@ -1,10 +1,10 @@
 # myhohoho christmas cubes
 
 - About:
-upload minimum 1 to maximum 6 picutres, and get back a .pdf for building a "myhohoho" christmas cube to put onto your christmas tree.
+upload one to six 6 pictures, and get back a .pdf for building a "myhohoho" christmas cube to put onto your christmas tree.
 
 - Purpose:
-Cloud Computing education in Schule Fluntern, Zürich, December 2015
+Docker & Cloud Computing education in Schule Fluntern, Zürich, December 2015
 
 - Tools needed:
 paper glue + scissor
