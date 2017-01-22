@@ -20,26 +20,23 @@ A container application constructed with primary school kids at Schule Fluntern 
 
 - History
 The web-app had more than 100'000 hits during December 2015, mainly from the US. It was run on Google Cloud Engine.
+Number of unique users was about 17'000.
 ( remark: the .pdf - download format was not A4 in the US )
 
-Main traffic was on 26th 27th December 2015.
-
-
-# Warning do not use, under construction.
-
-Docker application example :: crafting selfmade christmas cubes 
+Main traffic was during 26th-28th December 2015.
 
 # Building the container
 
-docker build -t myhohoho_apache_000011 .
+docker build -t myhohoho_apache_00001 .
 
 To run the container with apache starting in daemon-mode:
 
-docker run -p 80:80 -d myhohoho_apache_000011 apachectl -D FOREGROUND
+docker run -p 80:80 -d myhohoho_apache_00001 apachectl -D FOREGROUND
 
 Now, you will be able to access the app at
 
-http://youipadress/
+http://youripadress/
+
 
 
  
