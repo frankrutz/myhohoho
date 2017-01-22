@@ -16,20 +16,21 @@ colour printer + paper glue + scissor
 Approx. 3 minutes
 
 - Tip:
-Good schoolclasse activity to give a present to the teacher: each pupil makes a personal cube.
+good schoolclass activity to give a present to the teacher: each pupil makes a personal cube.
 
 - Programmed by:
-A container application constructed with primary school kids at Schule Fluntern in Zürich during November 2015.
+A container application constructed with primary school kids at Schule Fluntern in Zürich during November/December 2015.
 
 - History:
-The web-app had more than 100'000 hits during December 2015, mainly from the US. It was run on Google Cloud Engine.
-Number of unique users was about 17'000.
+The web-app had a bit more than 100'000 hits during December 2015, mainly from the US. It was run on Google Cloud Engine.
+Number of unique users was about 17'000. Maximum hit per IP was about 500. Loadbalancing technology was not used.
+In December 2015, we ran a US-server and a "rest-of-the-world" server.
 ( remark: the .pdf - download format was not A4 in the US )
 Main traffic was during 26th-28th December 2015.
 
-# Building the container
+# Build and run the container
 
-cloning the repository with git:
+clone the repository with git:
 
 git clone https://github.com/potf0815/myhohoho
 
@@ -51,6 +52,5 @@ created, build and used on Google Cloud Engine
 
 - 22nd Jan 2017:
 released on github
-
 
  
