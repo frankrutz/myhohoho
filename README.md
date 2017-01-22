@@ -1,7 +1,7 @@
-# myhohoho
+# myhohoho christmas cubes
 
 - Purpose:
-upload minimum 1 to maximum 6 picutres, and get back a .pdf for building a "myhohoho" christmas cube to put on your christmas tree.
+upload minimum 1 to maximum 6 picutres, and get back a .pdf for building a "myhohoho" christmas cube to put onto your christmas tree.
 
 - Tools needed:
 paper glue + scissor
@@ -26,7 +26,7 @@ Main traffic was on 26th 27th December 2015.
 
 Docker application example :: crafting selfmade christmas cubes 
 
-# Buildig the container
+# Building the container
 
 docker build -t myhohoho_apache_000011 .
 
