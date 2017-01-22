@@ -1,5 +1,3 @@
-#WARNING under construction planned release 23rd Jan 2017
-
 # myhohoho christmas cubes
 
 - About
@@ -41,6 +39,12 @@ Now, you will be able to access the app at
 
 http://youripadress/
 
+# History
+- Nov/Dec 2015
+Build and used on Google Cloud Engine
+
+- 22nd Jan 2017
+Released on Github
 
 
  
