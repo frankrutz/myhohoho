@@ -1,5 +1,5 @@
-# January 2017: myhohoho is currently running on 
-http://104.155.74.75/
+# January 2017: myhohoho is currently running on http://104.155.74.75/
+
 
 
 # myhohoho christmas cubes
