@@ -1,7 +1,10 @@
 # myhohoho christmas cubes
 
-- Purpose:
+- About:
 upload minimum 1 to maximum 6 picutres, and get back a .pdf for building a "myhohoho" christmas cube to put onto your christmas tree.
+
+- Purpose:
+Cloud Computing education in Schule Fluntern, Zürich, December 2015
 
 - Tools needed:
 paper glue + scissor
@@ -10,7 +13,7 @@ paper glue + scissor
 Approx. 3 minutes
 
 - Tip
-Good schoolclasses activity to give a present to the teacher: each pupil makes a personal cube.
+Good schoolclasse activity to give a present to the teacher: each pupil makes a personal cube.
 
 - Programmed by
 A container application constructed with primary school kids at Schule Fluntern in Zürich during November 2015.
