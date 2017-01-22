@@ -1,3 +1,5 @@
+#WARNING PRERELEASE-VERSION DO NOT USE
+
 # myhohoho christmas cubes
 
 - About:
@@ -50,7 +52,7 @@ http://youripadress/
 Build and used on Google Cloud Engine
 
 - 22nd Jan 2017:
-Released on Github
+Release prepared on github
 
 
  
