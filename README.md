@@ -2,32 +2,28 @@
 
 # myhohoho christmas cubes
 
-- About:
-
+- About
 upload one to six 6 pictures, and get back a .pdf for building a "myhohoho" christmas cube to put onto your christmas tree.
 
-- Purpose:
-
+- Purpose
 Docker & Cloud Computing education in Schule Fluntern, Zürich, December 2015
 
-- Tools needed:
+- Technology
+docker, imagemagick, perl, pdf, apache webserver, cloud
 
-paper glue + scissor
+- Tools needed for the user
+colour printer + paper glue + scissor
 
-- Time needed for one cube:
-
+- Time needed for one cube
 Approx. 3 minutes
 
 - Tip
-
 Good schoolclasse activity to give a present to the teacher: each pupil makes a personal cube.
 
 - Programmed by
-
 A container application constructed with primary school kids at Schule Fluntern in Zürich during November 2015.
 
 - History
-
 The web-app had more than 100'000 hits during December 2015, mainly from the US. It was run on Google Cloud Engine.
 Number of unique users was about 17'000.
 ( remark: the .pdf - download format was not A4 in the US )
