@@ -7,7 +7,7 @@ upload one to six 6 pictures, and get back a .pdf for building a "myhohoho" chri
 Docker & Cloud Computing education in Schule Fluntern, Zürich, December 2015
 
 - Technology:
-docker, imagemagick, perl, pdf, apache webserver, cloud
+docker, git, imagemagick, perl, pdf, apache webserver, cloud
 
 - Tools needed for the user:
 colour printer + paper glue + scissor
