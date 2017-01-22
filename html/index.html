@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image: url("myhohoho_bg_tiles.jpg");
+    background-repeat: repeat;
+}
+table{
+margin: 0 auto;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+background-color: #87CEFA;
+}
+</style>
+</head>
+<body>
+<p/><p/>
+<table>
+<tr><td><img src="bg_table.jpg"/></td></tr>
+<tr><td><center>upload 1-6 images, get one hohoho-cube</center></td></tr>
+<tr><td>
+<center>
+<form  action="/cgi-bin/test_multiple.pl" method="post" enctype="multipart/form-data">
+<input type="file" name="multiple_files" multiple="true"/>
+<input type="submit" name="Submit" value="make it" />
+</form>
+</center>
+</td></tr>
+<tr><td><img src="bg_table.jpg"/></td></tr>
+</table>
+</body>
+</html>
