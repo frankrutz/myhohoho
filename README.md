@@ -29,6 +29,12 @@ Main traffic was during 26th-28th December 2015.
 
 # Building the container
 
+cloning the repository with git:
+
+git clone https://github.com/potf0815/myhohoho
+
+cd myhohoho
+
 docker build -t myhohoho_apache_00001 .
 
 To run the container with apache starting in daemon-mode:
