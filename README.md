@@ -1,8 +1,6 @@
-# January 2017: myhohoho is currently running on http://104.155.74.75/
-
-
-
 # myhohoho christmas cubes
+
+currently online at http://104.155.74.75/
 
 - About:
 upload one to six 6 pictures, and get back a .pdf for building a "myhohoho" christmas cube to put onto your christmas tree.
