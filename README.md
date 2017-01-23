@@ -8,7 +8,7 @@ currently online at http://104.155.74.75/
 upload one to six 6 pictures, and get back a .pdf for building a "myhohoho" christmas cube to put onto your christmas tree.
 
 - Purpose:
-Docker & Cloud Computing education in Schule Fluntern, Zürich, December 2015
+Docker & Cloud Computing education with some kids of Schule Fluntern, Zürich, December 2015
 
 - Technology:
 docker, git, imagemagick, perl, pdf, apache webserver, cloud
