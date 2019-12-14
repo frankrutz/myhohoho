@@ -43,4 +43,20 @@ created, build and used on Google Cloud Engine
 released on github
 - 14th Dec 2019
 update to httpd:2.4
+
+
+
+# Setting up a Containerhost on Google Cloud
+
+We run CentOS7, standard machines, http https enabled
+
+sudo su -
+
+yum install -y docker
+
+yum install -y git
+
+systemctl start docker
+
+
  
