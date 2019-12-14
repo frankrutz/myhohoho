@@ -29,7 +29,7 @@ docker build -t myhohoho .
 
 To run the container with apache starting in daemon-mode:
 
-docker run -p 80:80 -name hohoho -d myhohoho apachectl -D FOREGROUND
+docker run -p 80:80 --name hohoho -d myhohoho apachectl -D FOREGROUND
 
 Now, you will be able to access the app at
 
