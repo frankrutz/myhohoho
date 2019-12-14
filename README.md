@@ -21,15 +21,15 @@ Approx. 3 minutes
 
 clone the repository with git:
 
-git clone https://github.com/potf0815/myhohoho
+git clone https://github.com/frankrutz/myhohoho
 
 cd myhohoho
 
-docker build -t myhohoho_apache_00001 .
+docker build -t myhohoho .
 
 To run the container with apache starting in daemon-mode:
 
-docker run -p 80:80 -d myhohoho_apache_00001 apachectl -D FOREGROUND
+docker run -p 80:80 -name hohoho -d myhohoho apachectl -D FOREGROUND
 
 Now, you will be able to access the app at
 
@@ -41,5 +41,6 @@ created, build and used on Google Cloud Engine
 
 - 22nd Jan 2017:
 released on github
-
+- 14th Dec 2019
+update to httpd:2.4
  
